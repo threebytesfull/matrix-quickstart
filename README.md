@@ -54,7 +54,7 @@ If your Bus Pirate can see TheMatrix and you just want to turn all the LEDs on t
 
 (If you are not using the default address, you'll need to change every occurrence of `0x60` in the commands above to match your address instead.)
 
-The four tests below rely on the test above having been run already - the Bus Pirate has a limited buffer and including the setup with each of these tests makes them too long to enter in one go!
+The tests below rely on the test above having been run already - the Bus Pirate has a limited buffer and including the setup with each of these tests makes them too long to enter in one go!
 
 To light alternate rows, beginning with the top:
 
